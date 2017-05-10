@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "d9b101b8aacd33cb1eca796eb46c863f"
+build_time: [547712899, 283280000]
+inputs:
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SwiftCompatibility.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [547712870, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [547712870, 0]

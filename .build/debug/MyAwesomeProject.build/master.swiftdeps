@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "a4260caf1cc94129be255674b47a451f"
+build_time: [547712913, 844810000]
+inputs:
+  "/Users/linusTorvalds/Desktop/myWeb/Sources/main.swift": [547712796, 0]

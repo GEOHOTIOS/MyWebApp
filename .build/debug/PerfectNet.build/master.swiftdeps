@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "039654d7fe1ef2737034e6168f4f59f9"
+build_time: [547712906, 713091000]
+inputs:
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [547712869, 0]

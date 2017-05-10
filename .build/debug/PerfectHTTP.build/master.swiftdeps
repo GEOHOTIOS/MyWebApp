@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "b659eef6c3a727ed3c63e724857bad27"
+build_time: [547712909, 332385000]
+inputs:
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [547712868, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [547712868, 0]

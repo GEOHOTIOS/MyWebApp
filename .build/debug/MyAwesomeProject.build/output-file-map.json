@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/linusTorvalds/Desktop/myWeb/.build/debug/MyAwesomeProject.build/master.swiftdeps"
+  },
+  "/Users/linusTorvalds/Desktop/myWeb/Sources/main.swift": {
+    "dependencies": "/Users/linusTorvalds/Desktop/myWeb/.build/debug/MyAwesomeProject.build/main.d",
+    "object": "/Users/linusTorvalds/Desktop/myWeb/.build/debug/MyAwesomeProject.build/main.swift.o",
+    "swiftmodule": "/Users/linusTorvalds/Desktop/myWeb/.build/debug/MyAwesomeProject.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/linusTorvalds/Desktop/myWeb/.build/debug/MyAwesomeProject.build/main.swiftdeps"
+  }
+}

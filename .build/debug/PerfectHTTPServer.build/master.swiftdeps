@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "80af4a809b710e4cb10b0574ff2292db"
+build_time: [547712911, 796439000]
+inputs:
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HPACK.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Request.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Response.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [547712869, 0]
+  "/Users/linusTorvalds/Desktop/myWeb/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [547712869, 0]
